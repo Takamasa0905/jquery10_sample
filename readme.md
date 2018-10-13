@@ -1,7 +1,7 @@
-# 帰社日 フロントチーム
+# フロントチーム
 
 ## 課題
-皆さんご存知、GiztechのJSカリキュラムのjQuery10を作ってもらいます！  
+jQuery10を作ってもらいます（jQueryは使いませんが）！  
 ただ条件があります。
 
 楽天ブックス総合検索API（https://webservice.rakuten.co.jp/api/bookstotalsearch/）
